@@ -1,7 +1,5 @@
-Template Name: Archiark
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Template Name: KCKV India
+Template Author: Vikash Tiwari
+Author URI: https://www.linkedin.com/in/vikash-tiwari15112000/
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+Instagram:  https://www.instagram.com/tiwari_vk15/
